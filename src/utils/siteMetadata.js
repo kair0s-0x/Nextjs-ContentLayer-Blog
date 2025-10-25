@@ -9,11 +9,11 @@ const siteMetadata = {
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/mohamedelmougy',
-    twitter: 'https://x.com/mohamedelmougy8',
+    github: 'https://github.com/',
+    twitter: 'https://x.com/',
     facebook: 'https://facebook.com',
     youtube: 'https://youtube.com',
-    linkedin: 'https://www.linkedin.com/in/mohamed-elmougy-b335592b8/',
+    linkedin: 'https://www.linkedin.com/',
     dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
