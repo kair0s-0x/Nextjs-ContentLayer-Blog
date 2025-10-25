@@ -1,13 +1,5 @@
 # Build SEO Optimized with Next.js, Contentlayer, and Tailwind CSS 
 
-
-
-For Demo <br />
-[Nextjs Personal Blog Website Demo](https://nextjs-contentlayer-blog-ivory.vercel.app/) <br />
-
-
-
-
 <br/>
 
 
